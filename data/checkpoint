@@ -1,0 +1,2 @@
+model_checkpoint_path: "titanic_model-1000"
+all_model_checkpoint_paths: "titanic_model-1000"
